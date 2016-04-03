@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Silly Math</string>
+    <string name="first_name">Math</string>
+    <string name="last_name">Operations</string>
+    <string name="math_sign_string">\u002B \u2212 \u00D7 \u00F7</string>
+    <string name="first_message_string">Practice \u0026 challenge yourself!</string>
+    <string name="second_message_string">Enjoy learning the fun way!</string>
+    <string name="menu_heading">LEVEL?</string>
+    <string name="easy_level">Easy</string>
+    <string name="medium_level">Medium</string>
+    <string name="hard_level">Hard</string>
+    <string name="timer_started">Timer turned ON!</string>
+    <string name="timer_stopped">Timer turned OFF!</string>
+    <string name="exit_title">Exit Game?</string>
+    <string name="exit_message">You will lose your score</string>
+    <string name="exit_okay">OK</string>
+    <string name="exit_cancel">Cancel</string>
+    <string name="shared_preferences_files_name">score_value</string>
+    <string name="shared_preferences_key_name">score</string>
+    <string name="shared_preferences_key_name_score">total</string>
+    <string name="shared_preferences_key_name_score_outof">outof</string>
+    <string name="message_score_clear">Cleared score!</string>
+    <string name="message_already_score_clear">Score already cleared!</string>
+    <string name="game_paused_message">Paused!</string>
+</resources>
